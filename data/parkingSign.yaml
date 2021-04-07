@@ -1,0 +1,6 @@
+train: ../parkingSign/images/train/ # 1492 images
+val: ../parkingSign/images/val/  # 373 images
+test: ../parkingSign/images/test/  # 232 
+
+nc: 1
+names: ['Parking Sign']
